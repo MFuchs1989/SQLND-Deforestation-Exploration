@@ -71,6 +71,8 @@ The report includes five sections:
 + Recommendations
 + Appendix: SQL queries used
 
+Analysis has shown that forest cover is slowly but steadily disappearing.
+The most affected region is sub-Saharan Africa. However, other countries, such as Iceland, have been able to increase their forest cover over time.
 
 
 <a name="authors"></a>
@@ -83,16 +85,9 @@ The report includes five sections:
 
 ## Project Motivation: 
 
-Udacity has given students the freedom to choose the area in which they would like to complete their capstone project. Possible technical fields would have been:
-
-+ [Robot Motion Planning](https://docs.google.com/document/d/1ZFCH6jS3A5At7_v5IUM5OpAXJYiutFuSIjTzV_E-vdE/pub)
-+ [Healthcare](https://docs.google.com/document/d/1WzurKKa9AX2DnOH7KiB38mvozdOSemfkGpex8hdTy8c/pub)
-+ [Computer Vision](https://docs.google.com/document/d/1y-XfjkPFgUQxFIQ9bBncUSjs4HOf5E-45FrLYNBsZb4/pub)
-+ [Education](https://docs.google.com/document/d/1vjerjRQnWs1kLbZagDYT6rNqiwAG23Yj45oUY88IAxI/pub)
-+ [Investment and Trading](https://docs.google.com/document/d/1ycGeb1QYKATG6jvz74SAMqxrlek9Ed4RYrzWNhWS-0Q/pub)
-
-As I am personally very interested in Deep Learning and have already completed my Nanodegree in Computer Vision via Udacity, I found it exciting to complete my capstone project in this area as well. 
-So I choose to use Convolutional Neural Networks to Identify Dog Breeds.
+As an enthusiastic Data Scientist, the collection and preparation of data is central, in addition to the creation of Machine / Deep Learning models. 
+This project and its leading courses showed me how to use SQL queries to define, select, manipulate, control access to, aggregate and join data and data tables. 
+Furthermore, the treatment of subqueries, various window functions as well as partitions to complete complex tasks was central. 
 
 <a name="acknowledgement"></a>
 
