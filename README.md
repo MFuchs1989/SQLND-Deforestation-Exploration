@@ -81,11 +81,14 @@ The most affected region is sub-Saharan Africa. However, other countries, such a
 
 + [Michael Fuchs](https://github.com/MFuchs1989)
 
+Here is still the link to [my SQL blog posts](https://michael-fuchs-sql.netlify.app/).
+
+
 <a name="motivation"></a>
 
 ## Project Motivation: 
 
-As an enthusiastic Data Scientist, the collection and preparation of data is central, in addition to the creation of Machine / Deep Learning models. 
+As an [enthusiastic Data Scientist](https://michael-fuchs-python.netlify.app/), the collection and preparation of data is central, in addition to the creation of Machine / Deep Learning models. 
 This project and its leading courses showed me how to use SQL queries to define, [select](https://michael-fuchs-sql.netlify.app/2021/03/23/data-wrangling/), [manipulate](https://michael-fuchs-sql.netlify.app/2021/03/29/data-manipulation/), control access to, [aggregate](https://michael-fuchs-sql.netlify.app/2021/03/26/data-aggregation/) and join data and data tables. 
 Furthermore, the treatment of [subqueries](https://michael-fuchs-sql.netlify.app/2021/04/01/subqueries/), various window functions as well as partitions to complete complex tasks was central. 
 
